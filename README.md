@@ -26,7 +26,7 @@
 
 Below is a preview of the main pages. (All images are under `./screenshots/`.)
 
-<details>
+<details open>
 <summary>Click to expand screenshots</summary>
 
 1. **Login Page**  
