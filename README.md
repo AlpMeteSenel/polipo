@@ -107,6 +107,7 @@ Use this checklist to track upcoming work.
 - [x] Fix bugs with free room display, exam booking, etc.  
 - [x] Added support for weekend classes
 - [x] Add next lecture to course info
+- [x] Add surveys
 - [ ] Add multi-language support (Italian, English, and Turkish)
 - [ ] Redesign email client
 - [ ] Add support for creating tickets
