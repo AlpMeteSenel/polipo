@@ -108,6 +108,7 @@ Use this checklist to track upcoming work.
 - [x] Added support for weekend classes
 - [x] Add next lecture to course info
 - [x] Add surveys
+- [x] Add following, followers, and profile features
 - [ ] Add multi-language support (Italian, English, and Turkish)
 - [ ] Redesign email client
 - [ ] Add support for creating tickets
