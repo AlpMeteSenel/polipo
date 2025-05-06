@@ -109,6 +109,7 @@ Use this checklist to track upcoming work.
 - [x] Add next lecture to course info
 - [x] Add surveys
 - [x] Add following, followers, and profile features
+- [x] Add support for sso login (unofficial)
 - [ ] Add multi-language support (Italian, English, and Turkish)
 - [ ] Redesign email client
 - [ ] Add support for creating tickets
