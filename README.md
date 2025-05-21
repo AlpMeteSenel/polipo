@@ -105,11 +105,13 @@ Use this checklist to track upcoming work.
 - [x] Add proper login device info
 - [x] Add date order to exam page
 - [x] Fix bugs with free room display, exam booking, etc.  
-- [x] Added support for weekend classes
+- [x] Add support for weekend classes
 - [x] Add next lecture to course info
 - [x] Add surveys
 - [x] Add following, followers, and profile features
 - [x] Add support for sso login (unofficial)
+- [x] Display power sockets if available in the room for map
+- [x] Add GTT public transport support to map (main campus only)
 - [ ] Add multi-language support (Italian, English, and Turkish)
 - [ ] Redesign email client
 - [ ] Add support for creating tickets
