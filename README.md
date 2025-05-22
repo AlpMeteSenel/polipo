@@ -112,6 +112,7 @@ Use this checklist to track upcoming work.
 - [x] Add support for sso login (unofficial)
 - [x] Display power sockets if available in the room for map
 - [x] Add GTT public transport support to map (main campus only)
+- [x] PWA and notification support
 - [ ] Add multi-language support (Italian, English, and Turkish)
 - [ ] Redesign email client
 - [ ] Add support for creating tickets
