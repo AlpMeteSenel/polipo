@@ -113,6 +113,8 @@ Use this checklist to track upcoming work.
 - [x] Display power sockets if available in the room for map
 - [x] Add GTT public transport support to map (main campus only)
 - [x] PWA and notification support
+- [x] Ability to download the entire folder contents for materials page (subfolders included)
+- [x] Display recently uploaded 3 files for easier access on the materials page
 - [ ] Add multi-language support (Italian, English, and Turkish)
 - [ ] Redesign email client
 - [ ] Add support for creating tickets
